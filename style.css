@@ -1,0 +1,12 @@
+body{
+background-color: rgb(98, 112, 187);
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(0, 61, 114);
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/*alteramos a cor de fundo*/
+/*meche no estilo das letras*/
